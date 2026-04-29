@@ -1,23 +1,30 @@
 [
-  {
-    "id": "6d95fal7c7e40bea",
-    "username": "dpmods",
-    "password": "dpmods",
-    "expiresAt": "2026-12-31",
-    "allowOffline": true
-  },
-  {
-    "id": "41e55d207d5ce9eb",
-    "username": "Jana",
-    "password": "12345",
-    "expiresAt": "2026-11-30",
-    "allowOffline": true
-  },
-  {
-    "id": "a1e61b84c22a2eff",
-    "username": "YASSA",
-    "password": "12345",
-    "expiresAt": "2026-04-30",
-    "allowOffline": false
-  }
+    {
+        "id": "6d95fal7c7e40bea",
+        "username": "dpmods",
+        "password": "dpmods",
+        "expiresAt": "2026-12-31",
+        "allowOffline": true
+    },
+    {
+        "id": "41e55d207d5ce9eb",
+        "username": "Jana",
+        "password": "12345",
+        "expiresAt": "2026-11-30",
+        "allowOffline": true
+    },
+    {
+        "id": "a1e61b84c22a2eff",
+        "username": "YASSA",
+        "password": "12345",
+        "expiresAt": "2026-04-30",
+        "allowOffline": false
+    },
+    {
+        "deviceId": "a1e61b84c22a2eff",
+        "username": "KINGJANAMD",
+        "password": "Pakaya",
+        "expiresAt": "2026-04-30",
+        "allowOffline": false
+    }
 ]
