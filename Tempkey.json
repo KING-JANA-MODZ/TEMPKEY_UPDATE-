@@ -12,12 +12,5 @@
         "password": "12345",
         "expiresAt": "2026-04-30",
         "allowOffline": true
-    },
-    {
-        "deviceId": "41e55d207d5ce9eb",
-        "username": "chamod ",
-        "password": "12345",
-        "expiresAt": "2026-04-30",
-        "allowOffline": true
     }
 ]
