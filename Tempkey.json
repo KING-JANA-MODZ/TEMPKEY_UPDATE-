@@ -19,12 +19,5 @@
         "password": "12345",
         "expiresAt": "2026-04-30",
         "allowOffline": false
-    },
-    {
-        "deviceId": "a1e61b84c22a2eff",
-        "username": "KINGJANAMD",
-        "password": "Pakaya",
-        "expiresAt": "2026-04-30",
-        "allowOffline": false
     }
 ]
