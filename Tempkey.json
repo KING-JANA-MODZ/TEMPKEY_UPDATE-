@@ -12,12 +12,5 @@
         "password": "12345",
         "expiresAt": "2026-04-30",
         "allowOffline": true
-    },
-    {
-        "id": "94720958258",
-        "username": "JANAMODZ(3)",
-        "password": "420789",
-        "expiresAt": "2026-05-29",
-        "allowOffline": true
     }
 ]
