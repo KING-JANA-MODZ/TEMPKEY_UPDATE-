@@ -12,12 +12,5 @@
         "password": "12345",
         "expiresAt": "2028-09-30",
         "allowOffline": true
-    },
-    {
-        "id": "Oppo f19",
-        "username": "JANAMODZ3",
-        "password": "246914",
-        "expiresAt": "2026-05-06",
-        "allowOffline": true
     }
 ]
