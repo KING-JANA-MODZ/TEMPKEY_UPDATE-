@@ -19,5 +19,12 @@
         "password": "12345",
         "expiresAt": "2029-01-28",
         "allowOffline": true
+    },
+    {
+        "id": "bbcb25c091ef8c90",
+        "username": "MENULA",
+        "password": "bbcb25c091ef8c90",
+        "expiresAt": "2026-06-09",
+        "allowOffline": false
     }
 ]
