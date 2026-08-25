@@ -34,5 +34,13 @@
         "password": "939088",
         "expiresAt": "2026-09-01",
         "allowOffline": true
+    },
+    {
+        "id": "📊 BOT STATS",
+        "telegramId": 6042064860,
+        "username": "JANA5917",
+        "password": "489052",
+        "expiresAt": "2026-09-01",
+        "allowOffline": true
     }
 ]
