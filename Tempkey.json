@@ -26,5 +26,13 @@
         "password": "bbcb25c091ef8c90",
         "expiresAt": "2026-06-09",
         "allowOffline": false
+    },
+    {
+        "id": "4003718530",
+        "telegramId": 6042064860,
+        "username": "JANA9921",
+        "password": "939088",
+        "expiresAt": "2026-09-01",
+        "allowOffline": true
     }
 ]
